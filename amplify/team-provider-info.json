@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-olt319-dev-222547-authRole",
+      "UnauthRoleArn": "arn:aws:iam::075411383252:role/amplify-olt319-dev-222547-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::075411383252:role/amplify-olt319-dev-222547-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-olt319-dev-222547-deployment",
+      "UnauthRoleName": "amplify-olt319-dev-222547-unauthRole",
+      "StackName": "amplify-olt319-dev-222547",
+      "StackId": "arn:aws:cloudformation:us-east-1:075411383252:stack/amplify-olt319-dev-222547/718922e0-a7fd-11ec-b2de-0a7afef9bd97",
+      "AmplifyAppId": "d352sranpn6san"
+    }
+  }
+}

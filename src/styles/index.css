@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container-fluid {
+  background: rgb(193, 222, 222) !important;
+  position: fixed;
+  width: 100%;
+  padding: 0 !important;
+}
+
+.page-content {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+/* .bg {
+  background-image: url(https://firebasestorage.googleapis.com/v0/b/olt-react.appspot.com/o/blurbg-blue-bl.JPG?alt=media&token=2dd2e771-a23e-47c8-b2ec-1dd1a45425c3);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -30;
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+} */
